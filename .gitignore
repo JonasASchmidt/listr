@@ -1,0 +1,13 @@
+# === IDEs / editors ===
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+
