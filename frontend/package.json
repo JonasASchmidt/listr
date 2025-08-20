@@ -26,6 +26,7 @@
 	},
 	"dependencies": {
 		"clsx": "^2.1.1",
+		"lucide-svelte": "^0.540.0",
 		"radix-svelte": "^0.9.0",
 		"shadcn-svelte": "^1.0.7",
 		"tailwind-merge": "^3.3.1"
