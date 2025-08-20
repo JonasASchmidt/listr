@@ -11,3 +11,7 @@
 *.log
 
 
+# Project assets
+package-lock.json
+App Screens/
+frontend/public/*.svg
