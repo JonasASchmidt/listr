@@ -25,6 +25,7 @@
 		"vite": "^7.0.4"
 	},
 	"dependencies": {
+		"@supabase/supabase-js": "^2.55.0",
 		"clsx": "^2.1.1",
 		"lucide-svelte": "^0.540.0",
 		"radix-svelte": "^0.9.0",
